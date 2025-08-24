@@ -2,7 +2,7 @@
 <h1 align="center">Kakarot who? 👋, I'm Adi Shelar</h1>
 <h3 align="center">Fullstack Java Developer | Web Enthusiast | Anime & Movie Buff</h3>
 
-<img src="https://media.giphy.com/media/PbpfRFFQOQ0WA/giphy.gif" width="550" align="right" alt="Vegeta posing">
+<img src="[https://media.giphy.com/media/PbpfRFFQOQ0WA/giphy.gif"](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndoZGJqMHp1ZHd2NWJnMWY5aW04dzJubGhlN2hqYXN3b2E1MG94cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/thZQwkCyXSmelSTWru/giphy.gif) width="550" align="right" alt="Vegeta posing">
 
 ---
 
