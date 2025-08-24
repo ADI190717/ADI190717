@@ -38,15 +38,15 @@
 
   <table>
     <tr>
-      <td align="center" width="200">
+      <td align="center" width="200" height="150">
         <b>Simple Calculator</b><br>
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVuNmlsc2U1NHh5djk4bWJxOWJiNTZoMGU4MW1ndXJla3NneXRpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRhSHzQ4NXOdrHIZJd/giphy.gif" width="160">
       </td>
-      <td align="center" width="200">
+      <td align="center" width="200" height="150">
         <b>Tinder Clone</b><br>
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFheGxqYmVncWN6bmE3ejZ1eHV0M2l4Zzh6am84NW9ydWlyMXJleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qg7S7qVMCqP1C/giphy.gif" width="160">
       </td>
-      <td align="center" width="200">
+      <td align="center" width="200" height="150">
         <b>SidCup Golf Clone</b><br>
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDUyeHpxM3IxcWxoZjNqenk1MjVzaTM1NzFwOThpczJza2RpaGRxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t8jyWKydrHcQ/giphy.gif" width="160">
       </td>
@@ -55,11 +55,11 @@
       <td colspan="3" align="center">
         <table>
           <tr>
-            <td align="center" width="200">
+            <td align="center" width="200" height="150">
               <b>Netflix Clone</b><br>
               <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5bnYwdHIzMG52dXE0Y2pwMG1oZHpmczRvcGh2a2o5MWxrbTl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqfIdmAFqwola/giphy.gif" width="160">
             </td>
-            <td align="center" width="200">
+            <td align="center" width="200" height="150">
               <b>Spotify Clone</b><br>
               <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJuMGVwOWxmY2x6aGg4dmp4bnh0OWxlcnA1dXFqZzNmcDAyZjBvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/svw5mZJdFB41G/giphy.gif" width="160">
             </td>
