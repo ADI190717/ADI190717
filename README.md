@@ -6,12 +6,14 @@
 
 ---
 
+
 - 🧑‍💻 BE in Computer Engineering
+- 💻 Ex-Java Fullstack Intern
 - 🌱 Currently upskilling: JavaScript & Fullstack Web Development
 - 🎯 Seeking: Fullstack Java Developer roles & interesting collaborations
-- 💻 Ex-Java Fullstack Intern
-- 📽️ Fan of Indian historical & sci-fi movies (ask me for recommendations!)
+- 📽️ Fan of Indian historical & sci-fi movies and Animes (ask me for recommendations!)
 - 🛠️ Regularly learning through coding and structured modules
+
 
 ---
 
