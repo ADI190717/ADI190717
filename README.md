@@ -29,13 +29,13 @@
 
 ### 📌 Pinned Projects
 - **Weather App:** Responsive JS weather app using OpenWeather API  
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDAzMjVtaGZsbG9uZDN2YTFjejNpOHgzZDN6Mmx0eWE3NzFqN2tyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/za5xikuRr0OzK/giphy.gif" width="100" alt="Vegeta powering up">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDAzMjVtaGZsbG9uZDN2YTFjejNpOHgzZDN6Mmx0eWE3NzFqN2tyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/za5xikuRr0OzK/giphy.gif" width="200" height="150" alt="Vegeta powering up">
 
 - **Hospital Management:** Web-based hospital record management system  
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100" alt="Vegeta laughing">
+  <img src="[https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajUycXBqYnU5dmkwcjNxNm11b2ljcmp0d2JnMnAyMGUwNmUyemFvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QY7Ng6qZuQ4V2/giphy.gif)" width="100" alt="Vegeta laughing">
 
 - **Front-End Mini Projects:** Series of HTML/CSS/JavaScript projects  
-  <img src="https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif" width="100" alt="Goku coding funny">
+  <img src="https://1.bp.blogspot.com/-gr4baH1TNQs/X8Vxu5MmQQI/AAAAAAAARks/5j6bpo_QjQs9sXtWToD9lXk6ZUIBfwb6gCLcBGAsYHQ/s0/Spotify%2BLogo%2B-%2BDownload%2BFree%2BVector%2BPNG.png" width="100" alt="mini projects">
 
 ---
 
