@@ -60,8 +60,8 @@
               <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5bnYwdHIzMG52dXE0Y2pwMG1oZHpmczRvcGh2a2o5MWxrbTl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqfIdmAFqwola/giphy.gif" width="160">
             </td>
             <td align="center" width="200">
-              <b>Simple Spotify Clone</b><br>
-              <img src="[YOUR_CALCULATOR_GIF_URL](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9wbjZiZmNxbGcxZHRybGVyb2N1NnhxdXpsNmpobG81Nm52c3AwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll1rEkDebTIdO/giphy.gif)" width="160">
+              <b>Spotify Clone</b><br>
+              <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJuMGVwOWxmY2x6aGg4dmp4bnh0OWxlcnA1dXFqZzNmcDAyZjBvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/svw5mZJdFB41G/giphy.gif" width="160">
             </td>
           </tr>
         </table>
