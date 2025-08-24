@@ -35,19 +35,19 @@
   <tr>
     <td align="center">
       <b>Spotify Clone</b><br>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9wbjZiZmNxbGcxZHRybGVyb2N1NnhxdXpsNmpobG81Nm52c3AwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll1rEkDebTIdO/giphy.gif" width="180" height="140" alt="Spotify">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9wbjZiZmNxbGcxZHRybGVyb2N1NnhxdXpsNmpobG81Nm52c3AwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll1rEkDebTIdO/giphy.gif" width="200" height="150" alt="Spotify">
     </td>
     <td align="center">
       <b>Tinder Clone</b><br>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFheGxqYmVncWN6bmE3ejZ1eHV0M2l4Zzh6am84NW9ydWlyMXJleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qg7S7qVMCqP1C/giphy.gif" width="180" height="140" alt="Tinder">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFheGxqYmVncWN6bmE3ejZ1eHV0M2l4Zzh6am84NW9ydWlyMXJleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qg7S7qVMCqP1C/giphy.gif" width="200" height="150" alt="Tinder">
     </td>
     <td align="center">
       <b>SidCup Family Golf Clone</b><br>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDUyeHpxM3IxcWxoZjNqenk1MjVzaTM1NzFwOThpczJza2RpaGRxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t8jyWKydrHcQ/giphy.gif" width="180" height="140" alt="Golf Website">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDUyeHpxM3IxcWxoZjNqenk1MjVzaTM1NzFwOThpczJza2RpaGRxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t8jyWKydrHcQ/giphy.gif" width="200" height="150" alt="Golf Website">
     </td>
     <td align="center">
       <b>Netflix Clone</b><br>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5bnYwdHIzMG52dXE0Y2pwMG1oZHpmczRvcGh2a2o5MWxrbTl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqfIdmAFqwola/giphy.gif" width="180" height="140" alt="Netflix Website">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5bnYwdHIzMG52dXE0Y2pwMG1oZHpmczRvcGh2a2o5MWxrbTl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqfIdmAFqwola/giphy.gif" width="200" height="150" alt="Netflix Website">
     </td>
   </tr>
 </table>
