@@ -1,5 +1,5 @@
 
-<h1 align="center">Kakarot who? 👋, I'm Adi Shelar</h1>
+<h1 align="center">Hey There 👋, I'm Adi Shelar</h1>
 <h3 align="center">Fullstack Java Developer | Web Enthusiast | Anime & Movie Buff</h3>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ4dGgyeGs5ajk5ZnllZnFlZnQxdHVyZ2lhYnp1bzVpODBzeHgweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/thZQwkCyXSmelSTWru/giphy.gif" width="550" align="right" alt="Vegeta posing">
@@ -79,7 +79,7 @@
 <p align="center">
   <i>“Keep coding hard — the power level is over 9000!”</i>  
   <br>
-  And if you came till here, then  
+  And if you came till here, then.. 
   <br>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV5c2g4N3JsZWUyZG13eW03angwMmJ6c3ZtZTBmdTFldW5hZTB2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xIsloV7zOmt81G/giphy.gif" width="200" alt="Vegeta funny dance">
 </p>
