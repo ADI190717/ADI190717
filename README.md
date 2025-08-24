@@ -49,8 +49,9 @@
     <td align="center">
       <b>SidCup Golf</b><br>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDUyeHpxM3IxcWxoZjNqenk1MjVzaTM1NzFwOThpczJza2RpaGRxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t8jyWKydrHcQ/giphy.gif" width="200" height="150" alt="Golf Website">
-    </td>
-    <td align="center">
+    </td></tr>
+  <tr>
+    <td colspan="3" align="center">
       <b>Netflix</b><br>
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5bnYwdHIzMG52dXE0Y2pwMG1oZHpmczRvcGh2a2o5MWxrbTl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqfIdmAFqwola/giphy.gif" width="200" height="150" alt="Netflix Website">
     </td>
