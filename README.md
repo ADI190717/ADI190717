@@ -34,10 +34,15 @@
 - **Hospital Management:** Web-based hospital record management system  
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BqeWF5ZXZ0NGZpa3J4eGdiMTJscTNvNXc1cmY0ZWZpaWN1eGxvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vHqYqMzqQYl7wdetsS/giphy.gif" width="200" height="150" alt="Vegeta laughing">
 
-- **Front-End Mini Projects:** Series of HTML/CSS/JavaScript projects  
+- **Front-End Mini Projects:** Series of HTML/CSS/JavaScript projects
+  **Spotify Clone**
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9wbjZiZmNxbGcxZHRybGVyb2N1NnhxdXpsNmpobG81Nm52c3AwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll1rEkDebTIdO/giphy.gif" width="200" height="150" alt="Spotify">
+  **Tinder Clone**
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFheGxqYmVncWN6bmE3ejZ1eHV0M2l4Zzh6am84NW9ydWlyMXJleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qg7S7qVMCqP1C/giphy.gif" width="200" height="150" alt="Tinder">
+  **SidCup Family Golf Clone**
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDUyeHpxM3IxcWxoZjNqenk1MjVzaTM1NzFwOThpczJza2RpaGRxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t8jyWKydrHcQ/giphy.gif" width="200" height="150" alt="Golf Website">
+  **Netflix Clone**
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5bnYwdHIzMG52dXE0Y2pwMG1oZHpmczRvcGh2a2o5MWxrbTl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqfIdmAFqwola/giphy.gif" width="200" height="150" alt="Golf Website">
 
 ---
 
@@ -59,5 +64,7 @@
 <p align="center">
   <i>“Keep coding hard — the power level is over 9000!”</i>  
   <br>
-  <img src="https://media.giphy.com/media/l378zKVk7Eh3yHoJi/giphy.gif" width="200" alt="Vegeta funny dance">
+  And if you came till here, then
+  <br>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV5c2g4N3JsZWUyZG13eW03angwMmJ6c3ZtZTBmdTFldW5hZTB2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xIsloV7zOmt81G/giphy.gif" width="200" alt="Vegeta funny dance">
 </p>
