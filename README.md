@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi there 👋, I'm Adi Shelar</h1>
 <h3 align="center">Fullstack Java Developer | Web Enthusiast | Movie Buff</h3>
 
