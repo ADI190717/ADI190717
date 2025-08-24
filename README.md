@@ -84,6 +84,7 @@
 <p align="center">
   <i>“Keep coding hard — the power level is over 9000!”</i>  
   <br>
+  <br><br>
   And if you came till here, then.. 
   <br>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV5c2g4N3JsZWUyZG13eW03angwMmJ6c3ZtZTBmdTFldW5hZTB2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xIsloV7zOmt81G/giphy.gif" width="200" alt="Vegeta funny dance">
