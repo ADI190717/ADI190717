@@ -36,32 +36,38 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <b>Spotify</b><br>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9wbjZiZmNxbGcxZHRybGVyb2N1NnhxdXpsNmpobG81Nm52c3AwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll1rEkDebTIdO/giphy.gif" width="200" height="150" alt="Spotify">
-    </td>
-    <td align="center">
-      <b>Tinder</b><br>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFheGxqYmVncWN6bmE3ejZ1eHV0M2l4Zzh6am84NW9ydWlyMXJleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qg7S7qVMCqP1C/giphy.gif" width="200" height="150" alt="Tinder">
-    </td>
-    <td align="center">
-      <b>SidCup Golf</b><br>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDUyeHpxM3IxcWxoZjNqenk1MjVzaTM1NzFwOThpczJza2RpaGRxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t8jyWKydrHcQ/giphy.gif" width="200" height="150" alt="Golf Website">
-    </td></tr>
-  <tr>
-    <td colspan="3" align="center">
-      <b>Netflix</b><br>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5bnYwdHIzMG52dXE0Y2pwMG1oZHpmczRvcGh2a2o5MWxrbTl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqfIdmAFqwola/giphy.gif" width="200" height="150" alt="Netflix Website">
-    </td>
-    <td align="center">
-      <b>Simple Calculator</b>
-      <br>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVuNmlsc2U1NHh5djk4bWJxOWJiNTZoMGU4MW1ndXJla3NneXRpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRhSHzQ4NXOdrHIZJd/giphy.gif" width="200" height="150" alt="Netflix Website">
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <b>Simple Calculator</b><br>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVuNmlsc2U1NHh5djk4bWJxOWJiNTZoMGU4MW1ndXJla3NneXRpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRhSHzQ4NXOdrHIZJd/giphy.gif" width="160">
+      </td>
+      <td align="center" width="200">
+        <b>Tinder Clone</b><br>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFheGxqYmVncWN6bmE3ejZ1eHV0M2l4Zzh6am84NW9ydWlyMXJleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qg7S7qVMCqP1C/giphy.gif" width="160">
+      </td>
+      <td align="center" width="200">
+        <b>SidCup Golf Clone</b><br>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDUyeHpxM3IxcWxoZjNqenk1MjVzaTM1NzFwOThpczJza2RpaGRxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t8jyWKydrHcQ/giphy.gif" width="160">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <table>
+          <tr>
+            <td align="center" width="200">
+              <b>Netflix Clone</b><br>
+              <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5bnYwdHIzMG52dXE0Y2pwMG1oZHpmczRvcGh2a2o5MWxrbTl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqfIdmAFqwola/giphy.gif" width="160">
+            </td>
+            <td align="center" width="200">
+              <b>Simple Spotify Clone</b><br>
+              <img src="[YOUR_CALCULATOR_GIF_URL](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9wbjZiZmNxbGcxZHRybGVyb2N1NnhxdXpsNmpobG81Nm52c3AwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll1rEkDebTIdO/giphy.gif)" width="160">
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
