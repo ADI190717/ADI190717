@@ -29,7 +29,7 @@
 
 ### 📌 Pinned Projects
 - **Weather App:** Responsive JS weather app using OpenWeather API  
-  <img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" width="100" alt="Vegeta powering up">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDAzMjVtaGZsbG9uZDN2YTFjejNpOHgzZDN6Mmx0eWE3NzFqN2tyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/za5xikuRr0OzK/giphy.gif" width="100" alt="Vegeta powering up">
 
 - **Hospital Management:** Web-based hospital record management system  
   <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100" alt="Vegeta laughing">
