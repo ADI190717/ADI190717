@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Adi Shelar</h1>
 <h3 align="center">Fullstack Java Developer | Web Enthusiast | Movie Buff</h3>
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFocmozOGxpdzA0MDAyOHJrNHNwbzBlbnloYzhpcTU3bXhxbmthaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRFNQ4YC5xWPS/giphy.gif)" width="550" align="right" alt="Coder at work">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFocmozOGxpdzA0MDAyOHJrNHNwbzBlbnloYzhpcTU3bXhxbmthaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRFNQ4YC5xWPS/giphy.gif" width="550" height="450" align="right" alt="Coder at work">
 
 ---
 
