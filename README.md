@@ -49,6 +49,11 @@
       <b>Netflix</b><br>
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5bnYwdHIzMG52dXE0Y2pwMG1oZHpmczRvcGh2a2o5MWxrbTl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqfIdmAFqwola/giphy.gif" width="200" height="150" alt="Netflix Website">
     </td>
+    <td align="center">
+      <b>Simple Calculator</b>
+      <br>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVuNmlsc2U1NHh5djk4bWJxOWJiNTZoMGU4MW1ndXJla3NneXRpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRhSHzQ4NXOdrHIZJd/giphy.gif" width="200" height="150" alt="Netflix Website">
+    </td>
   </tr>
 </table>
 
