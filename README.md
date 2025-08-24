@@ -27,7 +27,7 @@
 
 ---
 
-### 📌 Pinned Projects (Side by Side)
+### 📌 Pinned Projects
 
 <div align="center">
 
