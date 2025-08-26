@@ -18,14 +18,14 @@
 ### 💻 Tech Stack & Tools
 
 <table>
-  <tr><img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white" href="https://drive.google.com/drive/folders/11NTpk8x3ONLFF_2n8hSStUyCvzxq0-CA?usp=drive_link"/>🎓✅</tr>
-  <tr><img src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>🎓✅</tr>
-  <tr><img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=white"/>🎓✅</tr>
-  <tr><img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white"/>🎓✅</tr>
+  <tr><img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white" href="https://drive.google.com/drive/folders/11NTpk8x3ONLFF_2n8hSStUyCvzxq0-CA?usp=drive_link" 🎓✅/></tr>
+  <tr><img src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white" 🎓✅/></tr>
+  <tr><img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=white" 🎓✅/></tr>
+  <tr><img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white" 🎓✅/></tr>
   
-  <tr><img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white"/>🎓✅</tr>
-  <tr><img src="https://img.shields.io/badge/Spring_Boot-informational?style=for-the-badge&logo=spring-boot&logoColor=white"/>🎓✅</tr>
-  <tr><img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white"/>🎓✅</tr>
+  <tr><img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white" 🎓✅/></tr>
+  <tr><img src="https://img.shields.io/badge/Spring_Boot-informational?style=for-the-badge&logo=spring-boot&logoColor=white" 🎓✅/></tr>
+  <tr><img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white" 🎓✅/></tr>
   <tr><img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white"/></tr>
 </table>
 
