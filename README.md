@@ -63,6 +63,10 @@
               <b>Spotify Clone</b><br>
               <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJuMGVwOWxmY2x6aGg4dmp4bnh0OWxlcnA1dXFqZzNmcDAyZjBvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/svw5mZJdFB41G/giphy.gif" width="160">
             </td>
+            <td align="center" width="200" height="150">
+              <b>Weather App</b><br>
+              <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpwMHNqMzJ6Y3c4cDZhcjFyM3ptajJtNjI3c2tzOXpuNW1zYXhxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/za5xikuRr0OzK/giphy.gif" width="160">
+            </td>
           </tr>
         </table>
       </td>
