@@ -9,7 +9,7 @@
 - 🧑‍💻 BE in Computer Engineering
 - 🌱 Currently powering up my JavaScript & Fullstack Web Skills
 - 🎯 Seeking Fullstack Java Developer roles worthy of a Saiyan warrior
-- 💻 Ex-Java Fullstack Intern leveling up daily
+- 💻 Ex-Java Fullstack Intern levelling up daily
 - 🎥 Big fan of Indian historical & sci-fi movies — and Dragon Ball Z!
 - 🛠️ Grinding through code with persistence and passion
 
@@ -71,6 +71,40 @@
         </table>
       </td>
     </tr>
+
+<tr>
+  <td align="center" width="200" height="150">
+    <b>Password Generator</b><br>
+    <img src="PROJECT_GIF_URL" width="200">
+  </td>
+  <td align="center" width="200" height="150">
+    <b>Online Medical Store</b><br>
+    <img src="PROJECT_GIF_URL" width="200">
+  </td>
+  <td align="center" width="200" height="150">
+    <b>My Portfolio</b><br>
+    <img src="PROJECT_GIF_URL" width="200">
+  </td>
+</tr>
+<tr>
+  <td align="center" width="200" height="150">
+    <b>Hospital Management System</b><br>
+    <img src="PROJECT_GIF_URL" width="200">
+  </td>
+  <td align="center" width="200" height="150">
+    <b>Anime Streaming Website</b><br>
+    <img src="PROJECT_GIF_URL" width="200">
+  </td>
+  <td align="center" width="200" height="150">
+    <!-- Empty cell or add more projects here -->
+  </td>
+</tr>
+
+    
+
+
+
+    
   </table>
 
 </div>
