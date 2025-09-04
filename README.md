@@ -39,7 +39,7 @@
   <table>
     <tr>
       <td align="center" width="200" height="150">
-        <b>Simple Calculator</b><br>
+        <a href="https://github.com/ADI190717/Javascript_Projects/tree/Simple_Projects/Simple%20Calculator"><b>Simple Calculator</b><br></a>
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVuNmlsc2U1NHh5djk4bWJxOWJiNTZoMGU4MW1ndXJla3NneXRpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRhSHzQ4NXOdrHIZJd/giphy.gif" width="200">
       </td>
       <td align="center" width="200" height="150">
