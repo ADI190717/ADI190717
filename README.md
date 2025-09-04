@@ -75,28 +75,29 @@
 <tr>
   <td align="center" width="200" height="150">
     <b>Password Generator</b><br>
-    <img src="PROJECT_GIF_URL" width="200">
+    <img src=" https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFzNmptMHJsdWplZGVibXRnZWt1aHhyZmRyaTB2djRoZnVrOHNqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/loXfQtPqLxGmbLs9h2/giphy.gif " width="200">
   </td>
   <td align="center" width="200" height="150">
     <b>Online Medical Store</b><br>
-    <img src="PROJECT_GIF_URL" width="200">
+    <img src=" https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE0bXlvd2twYjZ4dWt0bnp2eHBrd3JhYmxza3JmNjFvNmk1Mzg3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsYB8qIkt6EFdgQ/giphy.gif " width="200">
   </td>
   <td align="center" width="200" height="150">
     <b>My Portfolio</b><br>
-    <img src="PROJECT_GIF_URL" width="200">
+    <img src=" https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1rczh3Zmw1ZnZsaXc3bGw2emxiN28zOHNvN3N0aW50OG12NmZibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XWlhicKYRKKKgepIBP/giphy.gif " width="200">
   </td>
 </tr>
 <tr>
   <td align="center" width="200" height="150">
     <b>Hospital Management System</b><br>
-    <img src="PROJECT_GIF_URL" width="200">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh4a3lhODE1bzdjc3cyMGkyb2VqZXNzcWJydTI0dGNtNmY2ZHZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vHqYqMzqQYl7wdetsS/giphy.gif" width="200">
   </td>
   <td align="center" width="200" height="150">
     <b>Anime Streaming Website</b><br>
-    <img src="PROJECT_GIF_URL" width="200">
+    <img src=" https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ1ZnRlODlvajQ5ZWo2MGE0aGlvMm02djdpbm5jNjJlcDhyZ2lmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z7wIVXPnpm1DiJDdsU/giphy.gif " width="200">
   </td>
   <td align="center" width="200" height="150">
-    <!-- Empty cell or add more projects here -->
+    <b>Portfolio 2</b><br>
+    <img src=" https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ0cmIyOWl6OWM5OWRoZHRyN2Jxajl2MmEya3RjaHBpY2J6cmZoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znsAD4fS3Z2g6wA55a/giphy.gif " width="200">
   </td>
 </tr>
 
