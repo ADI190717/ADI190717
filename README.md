@@ -10,7 +10,7 @@
 - 🌱 Currently powering up my JavaScript & Fullstack Web Skills
 - 🎯 Seeking Fullstack Java Developer roles worthy of a Saiyan warrior
 - 💻 Ex-Java Fullstack Intern levelling up daily
-- 🎥 Big fan of Indian historical & sci-fi movies — and Dragon Ball Z!
+- 🎥 Big fan of Animes!
 - 🛠️ Grinding through code with persistence and passion
 
 ---
