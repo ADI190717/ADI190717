@@ -2,7 +2,7 @@
 <h1 align="center">Hey There 👋, I'm Adi Shelar</h1>
 <h3 align="center">Fullstack Java Developer | Web Enthusiast | Anime & Movie Buff</h3>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyazQ4c3Vjb3ExMHl0MDZndXJvdXBjMGV6a3Q0a3hlMDN6djRjcnRsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRFNQ4YC5xWPS/giphy.gif" alt="Vegeta posing" align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyazQ4c3Vjb3ExMHl0MDZndXJvdXBjMGV6a3Q0a3hlMDN6djRjcnRsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRFNQ4YC5xWPS/giphy.gif" alt="Vegeta posing">
 
 ---
 
